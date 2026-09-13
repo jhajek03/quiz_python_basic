@@ -1,0 +1,10 @@
+1. Jaké je hlavní město České republiky?;Praha
+2. Kolik je 2 + 2?;4
+3. Kolik dní má týden?;7
+4. Jaká planeta je nejblíže Slunci?;Merkur
+5. Kolik má člověk prstů na jedné ruce?;5
+6. Jaký je největší oceán na Zemi?;Tichý oceán
+7. Jaká je chemická značka pro vodu?;H2O
+8. Kolik měsíců má rok?;12
+9. Kdo napsal Harryho Pottera?;J. K. Rowlingová
+11. Jáký klub NHL má v logu žraloka?;San Jose Sharks
